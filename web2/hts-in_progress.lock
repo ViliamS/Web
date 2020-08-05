@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 05 Aug 2020 16:38:15 .. please wait!
+httrack https://unrr.cz/ 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=26835
+UID=810984245
+GID=810984245
+START=1596638295
